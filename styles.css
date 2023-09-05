@@ -60,10 +60,54 @@
 }
 
 
-
 .recipe-heading {
     font-family: "Cambria", "Times New Roman", sans-serif;
-    color: #222525;
-    font-size: 28px;
-    font-weight: 300;
+    color: #5c5c5c;
+    text-align: center;
+    font-size: 24px;
 }
+
+.recipe-subtitle {
+    display: block;
+    color: #5c5c5c;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 20px;
+} 
+
+.recipe-desc {
+    display: block;
+    color: #363636;
+    text-align: center;
+    font-size: 16px;
+
+}
+
+.ingredients {
+    display: inline-block;
+    text-align: left;
+
+}
+
+.instruct {
+    display: inline-block;
+    padding-left: 25px;
+
+}
+
+.ingredient-list {
+    display: inline-block;
+    text-align: left;
+    width: 300px;
+
+}
+
+
+
+.instructions {
+    display: inline-block;
+    width: 500px;
+}
+
+
+
